@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 ![Gruvbox](https://github-readme-stats.vercel.app/api?username=mTvare6&show_icons=true&theme=gruvbox)
 
-![Dracula](https://github-readme-stats.vercel.app/api?username=mTvare6&show_icons=true&theme=dracula)
+I used to use Dracula because it is ported to many apps and looks better than most others, util I found gruvbox
+

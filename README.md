@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![rank](https://github-readme-stats.vercel.app/api?username=mTvare6&show_icons=true&theme=gruvbox)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mTvare6a&theme=gruvbox&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=mTvare6a&theme=gruvbox&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15)
 
 I used to use Dracula because it is ported to many apps and looks better than most others, until I found gruvbox
 

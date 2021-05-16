@@ -1,8 +1,9 @@
-![rank](https://github-readme-stats.vercel.app/api?username=mTvare6&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mTvare6&langs_count=10&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
+![rank](https://github-readme-stats.vercel.app/api?username=mTvare6&show_icons=true&theme=gruvbox)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mTvare6&theme=gruvbox&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 Oh and while you are here let me spam random sheilds which I use, used and good with
 

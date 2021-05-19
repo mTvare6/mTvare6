@@ -31,4 +31,4 @@ Oh and while you are here let me spam random sheilds which I use, used and good 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![https://stackoverflow.com/users/12373956/mtvare](https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white)
+![[https://stackoverflow.com/users/12373956/mtvare](https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://stackoverflow.com/users/12373956/mtvare)
